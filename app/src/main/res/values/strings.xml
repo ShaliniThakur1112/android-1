@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">android1</string>
+    <string name="zero">0:00</string>
+
+    <string-array name="spinnerlist">
+        <item>SELECT LANGUAGE</item>
+        <item>C</item>
+        <item>C++</item>
+        <item>JAVA</item>
+        <item>PYTHON</item>
+        <item>HTML</item>
+        <item>CSS</item>
+        <item>JAVA SCRIPT</item>
+        <item>PHP</item>
+        <item>ANDROID</item>
+        <item>SQL</item>
+    </string-array>
+</resources>
